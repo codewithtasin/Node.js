@@ -13,4 +13,4 @@ hi()
 ahi("Tasin")
 ahi("Fahim")
 ahi("Islam")
-tasin();
+tasin()
